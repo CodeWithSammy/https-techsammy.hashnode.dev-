@@ -8,7 +8,7 @@ datePublished: Wed May 17 2023 10:23:43 GMT+0000 (Coordinated Universal Time)
 cuid: clhrk242a000x09l49x2a3oft
 slug: day8-of-mastering-javascript-fundamentals-the-complete-guide-to-javascript30
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684310209945/a8f90478-8f18-4797-8bfe-fb513b4264b8.png
-tags: css, programming, javascript, web-development, html5
+tags: programming, javascript, web-development, canvas, html5
 
 ---
 
@@ -18,11 +18,9 @@ In Day 8 of the JavaScript30 course by Wes Bos, the focus is on the "Fun with HT
 
 The key concepts covered in this project include working with the `<canvas>` element, accessing the drawing context, understanding coordinate systems, and using various drawing methods and properties provided by the canvas API.
 
-Participants learn how to set up the canvas element, retrieve the drawing context, and manipulate properties such as stroke style, line width, and global composite operations. They also learn how to handle mouse events to create interactive drawing experiences.
+Learn how to set up the canvas element, retrieve the drawing context, and manipulate properties such as stroke style, line width, and global composite operations. Also, learn how to handle mouse events to create interactive drawing experiences.
 
-By the end of the project, participants have a solid understanding of how to leverage the HTML `<canvas>` element and the canvas API to create dynamic and visually appealing drawings and animations on the web.
-
-Through hands-on coding exercises and step-by-step instructions, participants gain practical experience in working with the canvas element and develop their skills in JavaScript graphics programming.
+By the end of the project, you will have a solid understanding of how to leverage the HTML `<canvas>` element and the canvas API to create dynamic and visually appealing drawings and animations on the web.
 
 # Key Concepts Used in this Project
 
@@ -88,7 +86,7 @@ Here's a detailed explanation of each concept with its corresponding code snippe
     
     * `stroke()`:
         
-        This method outlines the path or shape with the current stroke style.
+        This method outlines the path or shapes with the current stroke style.
         
     * `fill()`:
         
@@ -237,13 +235,11 @@ By following these steps and understanding the code snippets provided, you'll be
 
 # Summary
 
-Fun with HTML Canvas
-
 "Fun with HTML Canvas" is a project from Day 8 of the JavaScript30 course by Wes Bos. In this project, participants learn how to leverage the HTML `<canvas>` element and JavaScript to create interactive drawings and animations.
 
 The key concepts covered in this project include working with the `<canvas>` element, accessing the drawing context, understanding the coordinate system, utilizing various drawing methods and properties, handling mouse events, and implementing animation.
 
-By following a step-by-step guide, participants set up the canvas, configure drawing properties, attach event listeners for drawing actions, and implement the drawing logic using methods like `stroke()`, `fill()`, `beginPath()`, `moveTo()`, and `lineTo()`. They also explore styling and colors, animation using `requestAnimationFrame()`, and interactive experiences with mouse events.
+By following a step-by-step guide, you can set up the canvas, configure drawing properties, attach event listeners for drawing actions, and implement the drawing logic using methods like `stroke()`, `fill()`, `beginPath()`, `moveTo()`, and `lineTo()`. They also explore styling and colors, animation using `requestAnimationFrame()`, and interactive experiences with mouse events.
 
 By mastering these concepts, participants gain the ability to create visually appealing drawings, animations, and interactive experiences using the HTML `<canvas>` element and JavaScript graphics programming.
 
