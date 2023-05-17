@@ -14,6 +14,8 @@ tags: programming, javascript, web-development, canvas, html5
 
 # Fun with Canvas
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684341047204/397db079-99e7-4191-b62c-03762b4d7377.png align="center")
+
 In Day 8 of the JavaScript30 course by Wes Bos, the focus is on the "Fun with HTML Canvas" project. This project explores the capabilities of the HTML `<canvas>` element and provides a hands-on opportunity to create interactive drawings and animations using JavaScript.
 
 The key concepts covered in this project include working with the `<canvas>` element, accessing the drawing context, understanding coordinate systems, and using various drawing methods and properties provided by the canvas API.
