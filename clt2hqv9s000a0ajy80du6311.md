@@ -3,7 +3,7 @@ title: "#Day9 of Mastering JavaScript Fundamentals:
 The Complete Guide to JavaScript30"
 seoTitle: "14 Must Know Dev Tools Tricks"
 seoDescription: "14 Must Know Dev Tools Tricks"
-datePublished: Tue May 16 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Feb 25 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clt2hqv9s000a0ajy80du6311
 slug: day9-of-mastering-javascript-fundamentals-the-complete-guide-to-javascript30
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684602246742/cd8b614b-7867-4c3a-bf15-582b9664458f.png
